@@ -7,6 +7,7 @@ In **CrewAI**, a **Crew** is a **team of agents** working together to complete t
 ✅ **Workflow management** – Ensuring tasks follow a structured process  
 
 A **Crew** is like a **team** in a company, where each member has a specific role, and they work together to achieve a common goal.
+![WhatsApp Image 2025-02-21 at 06 22 40_2f5a2bbe](https://github.com/user-attachments/assets/25ed6419-5007-49ba-81a2-c81eba4bc132)
 
 ---
 
